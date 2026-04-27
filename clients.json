@@ -1,0 +1,62 @@
+[
+  {
+    "DateInscription": "2024-03-12T00:00:00",
+    "Id": 1,
+    "Nom": "Paul Durand",
+    "Email": "paul.durand@mail.fr",
+    "Telephone": "0611223344",
+    "Adresse": "12 rue Victor Hugo",
+    "Ville": "Amiens",
+    "CodePostal": "80000"
+  },
+  {
+    "DateInscription": "2023-11-02T00:00:00",
+    "Id": 2,
+    "Nom": "L\u00E9a Martin",
+    "Email": "lea.martin@mail.fr",
+    "Telephone": "0622334455",
+    "Adresse": "5 avenue Jean Jaur\u00E8s",
+    "Ville": "Beauvais",
+    "CodePostal": "60000"
+  },
+  {
+    "DateInscription": "2025-01-15T00:00:00",
+    "Id": 3,
+    "Nom": "Omar Petit",
+    "Email": "omar.petit@mail.fr",
+    "Telephone": "0788990011",
+    "Adresse": "45 rue de la R\u00E9publique",
+    "Ville": "Lille",
+    "CodePostal": "59000"
+  },
+  {
+    "DateInscription": "2026-02-20T00:00:00",
+    "Id": 4,
+    "Nom": "Julie Verne",
+    "Email": "j.verne@provider.com",
+    "Telephone": "0644556677",
+    "Adresse": "8 impasse des Lilas",
+    "Ville": "Amiens",
+    "CodePostal": "80000"
+  },
+  {
+    "DateInscription": "2023-12-10T00:00:00",
+    "Id": 5,
+    "Nom": "Thomas Morel",
+    "Email": "t.morel@mail.com",
+    "Telephone": "0677889900",
+    "Adresse": "22 rue des Capucins",
+    "Ville": "Reims",
+    "CodePostal": "51100"
+  },
+  {
+    "DateInscription": "2024-03-05T00:00:00",
+    "Id": 6,
+    "Nom": "Sophie Legrand",
+    "Email": "sophie.legrand@bureau.fr",
+    "Telephone": "0711224455",
+    "Adresse": "3 bis rue de Paris",
+    "Ville": "Compi\u00E8gne",
+    "CodePostal": "60200"
+  }
+]

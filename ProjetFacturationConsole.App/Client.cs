@@ -9,5 +9,10 @@ namespace ProjetFacturationConsole.App
         {
             DateInscription = dateInscription;
         }
+
+        public void AfficherInfos()
+        {
+            Console.WriteLine($"Client #{Id} : {Nom}, Email : {Email}, Téléphone : {Telephone}, Adresse : {Adresse}, {Ville} {CodePostal}, Inscrit le : {DateInscription:dd/MM/yyyy}");
+        }
     }
 }

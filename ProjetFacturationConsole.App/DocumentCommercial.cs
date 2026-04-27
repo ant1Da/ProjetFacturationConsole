@@ -16,5 +16,31 @@ namespace ProjetFacturationConsole.App
             Entreprise = entreprise;
             Lignes = new List<LigneFacture>();
         }
+
+        public void AjouterLigne(LigneFacture ligne)
+        {
+            Lignes.Add(ligne);
+        }
+        public decimal CalculerTotalHT()
+        {
+            decimal total = 0;
+            foreach (var ligne in Lignes)
+                total += ligne.CalculerTotalHT();
+            return total;
+        }
+        public decimal CalculerTotalTVA()
+        {
+            decimal total = 0;
+            foreach (var ligne in Lignes)
+                total += ligne.CalculerMontantTVA();
+            return total;
+        }
+        public decimal CalculerTotalTTC()
+        {
+            decimal total = 0;
+            foreach (var ligne in Lignes)
+                total += ligne.CalculerTotalTTC();
+            return total;
+        }
     }
 }

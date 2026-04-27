@@ -14,5 +14,18 @@ namespace ProjetFacturationConsole.App
             PrixUnitaireHT = prixUnitaireHT;
             TauxTVA = tauxTVA;
         }
+
+        public decimal CalculerTotalHT()
+        {
+            return Quantite * PrixUnitaireHT;
+        }
+        public decimal CalculerMontantTVA()
+        {
+            return CalculerTotalHT() * (TauxTVA / 100);
+        }
+        public decimal CalculerTotalTTC()
+        {
+            return CalculerTotalHT() + CalculerMontantTVA();
+        }
     }
 }
