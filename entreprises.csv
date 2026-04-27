@@ -1,0 +1,7 @@
+id;nom;email;telephone;adresse;ville;codePostal;siret
+1;TechNova;contact@technova.fr;0322000001;25 rue des Lilas;Amiens;80000;12345678900011
+2;DevSolutions;contact@devsolutions.fr;0322000002;8 boulevard Faidherbe;Lille;59000;23456789000022
+3;WebAgency;admin@webagency.com;0144556677;102 avenue de France;Paris;75013;34567890100033
+4;StartDev;contact@startdev.io;0322000044;1 place de l'Hôtel de Ville;Amiens;80000;45678901200044
+5;CloudNet;support@cloudnet.fr;0450112233;50 square de la Libération;Lyon;69000;56789012300055
+6;DataCorp;info@datacorp.com;0299887766;14 route de Nantes;Rennes;35000;67890123400066

@@ -1,0 +1,7 @@
+id;nom;email;telephone;adresse;ville;codePostal;dateInscription
+1;Paul Durand;paul.durand@mail.fr;0611223344;12 rue Victor Hugo;Amiens;80000;12/03/2024
+2;Léa Martin;lea.martin@mail.fr;0622334455;5 avenue Jean Jaurès;Beauvais;60000;02/11/2023
+3;Omar Petit;omar.petit@mail.fr;0788990011;45 rue de la République;Lille;59000;15/01/2025
+4;Julie Verne;j.verne@provider.com;0644556677;8 impasse des Lilas;Amiens;80000;20/02/2026
+5;Thomas Morel;t.morel@mail.com;0677889900;22 rue des Capucins;Reims;51100;10/12/2023
+6;Sophie Legrand;sophie.legrand@bureau.fr;0711224455;3 bis rue de Paris;Compiègne;60200;05/03/2024
