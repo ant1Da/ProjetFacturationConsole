@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProjetFacturationConsole.App/ProjetFacturationConsole.App.csproj" />
+  <Project Path="ProjetFacturationConsole.Tests/ProjetFacturationConsole.Tests.csproj" />
+</Solution>
